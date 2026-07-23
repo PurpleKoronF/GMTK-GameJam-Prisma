@@ -1,4 +1,4 @@
-draw_set_font(Fnt_Title);
+draw_set_font(Fnt_MainFont);
 draw_set_colour(c_white);
 
 draw_set_halign(fa_center);
