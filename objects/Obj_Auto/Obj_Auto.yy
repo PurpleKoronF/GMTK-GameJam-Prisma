@@ -28,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"Sprite2",
-    "path":"sprites/Sprite2/Sprite2.yy",
+    "name":"Sprt_CarPlaceHolder",
+    "path":"sprites/Sprt_CarPlaceHolder/Sprt_CarPlaceHolder.yy",
   },
   "spriteMaskId":null,
   "visible":true,
