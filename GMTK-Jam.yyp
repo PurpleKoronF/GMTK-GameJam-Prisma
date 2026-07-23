@@ -31,7 +31,7 @@
   "isEcma":false,
   "LibraryEmitters":[],
   "MetaData":{
-    "IDEVersion":"2026.0.0.16",
+    "IDEVersion":"2024.14.4.222",
   },
   "name":"GMTK-Jam",
   "resources":[
@@ -42,7 +42,7 @@
     {"id":{"name":"Obj_MainCountDown","path":"objects/Obj_MainCountDown/Obj_MainCountDown.yy",},},
     {"id":{"name":"Obj_Test","path":"objects/Obj_Test/Obj_Test.yy",},},
     {"id":{"name":"Obj_Title","path":"objects/Obj_Title/Obj_Title.yy",},},
-    {"id":{"name":"RM_Main","path":"rooms/RM_Main/RM_Main.yy",},},
+    {"id":{"name":"RM_Main2","path":"rooms/RM_Main2/RM_Main2.yy",},},
     {"id":{"name":"RM_Menu","path":"rooms/RM_Menu/RM_Menu.yy",},},
     {"id":{"name":"RM_MiniGameBaldi","path":"rooms/RM_MiniGameBaldi/RM_MiniGameBaldi.yy",},},
     {"id":{"name":"RM_MiniGameBomb","path":"rooms/RM_MiniGameBomb/RM_MiniGameBomb.yy",},},
@@ -57,13 +57,13 @@
   "resourceVersion":"2.0",
   "RoomOrderNodes":[
     {"roomId":{"name":"RM_Menu","path":"rooms/RM_Menu/RM_Menu.yy",},},
-    {"roomId":{"name":"RM_Main","path":"rooms/RM_Main/RM_Main.yy",},},
     {"roomId":{"name":"RM_MiniGameSniper","path":"rooms/RM_MiniGameSniper/RM_MiniGameSniper.yy",},},
     {"roomId":{"name":"RM_MiniGameCook","path":"rooms/RM_MiniGameCook/RM_MiniGameCook.yy",},},
     {"roomId":{"name":"RM_MiniGameSheeps","path":"rooms/RM_MiniGameSheeps/RM_MiniGameSheeps.yy",},},
     {"roomId":{"name":"RM_MiniGameMetronome","path":"rooms/RM_MiniGameMetronome/RM_MiniGameMetronome.yy",},},
     {"roomId":{"name":"RM_MiniGameBomb","path":"rooms/RM_MiniGameBomb/RM_MiniGameBomb.yy",},},
     {"roomId":{"name":"RM_MiniGameBaldi","path":"rooms/RM_MiniGameBaldi/RM_MiniGameBaldi.yy",},},
+    {"roomId":{"name":"RM_Main2","path":"rooms/RM_Main2/RM_Main2.yy",},},
   ],
   "templateType":"game",
   "TextureGroups":[
