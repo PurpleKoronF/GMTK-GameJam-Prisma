@@ -1,2 +1,0 @@
-# GMTK-GameJam-Prisma
-

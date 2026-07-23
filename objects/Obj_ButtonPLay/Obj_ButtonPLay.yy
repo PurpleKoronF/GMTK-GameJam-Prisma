@@ -37,8 +37,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"Sprt_ButtonPlay",
-    "path":"sprites/Sprt_ButtonPlay/Sprt_ButtonPlay.yy",
+    "name":"Sprt_play",
+    "path":"sprites/Sprt_play/Sprt_play.yy",
   },
   "spriteMaskId":null,
   "visible":true,
