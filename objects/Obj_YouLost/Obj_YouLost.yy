@@ -27,7 +27,7 @@
   "physicsShapePoints":[],
   "physicsStartAwake":true,
   "properties":[
-    {"$GMObjectProperty":"v2","%Name":"ButtonText","filters":[],"listItems":[],"multiselect":false,"name":"ButtonText","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"You Lost","varType":2,},
+    {"$GMObjectProperty":"v2","%Name":"ButtonText","filters":[],"listItems":[],"multiselect":false,"name":"ButtonText","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"You buy some ice cream at the mall \\n Oh no! it will melt in this heat!\\n Quick! Rush Home!","varType":2,},
   ],
   "resourceType":"GMObject",
   "resourceVersion":"2.0",

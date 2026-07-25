@@ -1,6 +1,10 @@
-if(GraffitiNumber=2){
-GraffitiNumber=3
+audio_play_sound(sound_best_snare,100,false)
+
+if(GraffitiNumber=3){
+GraffitiNumber=4
 global.Bang=1}
+if(GraffitiNumber=2)
+GraffitiNumber=3
 if(GraffitiNumber=1)
 GraffitiNumber=2
 if(GraffitiNumber=0)

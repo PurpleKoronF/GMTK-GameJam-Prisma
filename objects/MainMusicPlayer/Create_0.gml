@@ -1,0 +1,1 @@
+global.MenuMusicStarted=0
