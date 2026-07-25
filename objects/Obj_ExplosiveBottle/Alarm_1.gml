@@ -1,0 +1,1 @@
+global.Bang=3;

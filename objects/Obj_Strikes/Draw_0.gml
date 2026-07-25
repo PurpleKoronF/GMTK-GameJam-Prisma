@@ -1,0 +1,9 @@
+if(global.strikes=1)
+draw_sprite(Sprt_Strike,-1,x,y);
+if(global.strikes=2){
+draw_sprite(Sprt_Strike,-1,x,y);
+draw_sprite(Sprt_Strike,-1,x,y+30);}
+if(global.strikes=3){
+draw_sprite(Sprt_Strike,-1,x,y);
+draw_sprite(Sprt_Strike,-1,x,y+30);
+draw_sprite(Sprt_Strike,-1,x,y+60);}

@@ -1,0 +1,1 @@
+global.bang=0;

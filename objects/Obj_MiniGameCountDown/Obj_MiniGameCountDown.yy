@@ -11,8 +11,8 @@
   "name":"Obj_MiniGameCountDown",
   "overriddenProperties":[],
   "parent":{
-    "name":"Oggetti",
-    "path":"folders/Oggetti.yy",
+    "name":"CountDown",
+    "path":"folders/Oggetti/CountDown.yy",
   },
   "parentObjectId":null,
   "persistent":false,
