@@ -1,0 +1,2 @@
+global.strikes=0;
+ 

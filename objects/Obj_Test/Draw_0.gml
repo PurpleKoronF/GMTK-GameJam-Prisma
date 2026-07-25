@@ -1,0 +1,16 @@
+if(global.MomentaryPlayerValue=0)
+draw_sprite(timer_up,-1,x,y);
+if(global.MomentaryPlayerValue=1)
+draw_sprite(timer_up_right,-1,x,y);
+if(global.MomentaryPlayerValue=2)
+draw_sprite(timer_right,-1,x,y);
+if(global.MomentaryPlayerValue=3)
+draw_sprite(timer_down_right,-1,x,y);
+if(global.MomentaryPlayerValue=4)
+draw_sprite(timer_down,-1,x,y);
+if(global.MomentaryPlayerValue=5)
+draw_sprite(timer_down_left,-1,x,y);
+if(global.MomentaryPlayerValue=6)
+draw_sprite(timer_left,-1,x,y);
+if(global.MomentaryPlayerValue=7)
+draw_sprite(timer_up_left,-1,x,y);

@@ -1,0 +1,10 @@
+if(global.StartMinigame=true){
+if(global.Pace=0)
+alarm[0]=30;
+if(global.Pace=1)
+alarm[0]=60;
+if(global.Pace=2)
+alarm[0]=120;
+global.StartMinigame=false}
+else
+alarm[1]=1

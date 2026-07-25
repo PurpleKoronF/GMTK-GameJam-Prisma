@@ -1,4 +1,4 @@
 if(global.CountDown==0)
-game_end();
+room_goto(RM_Loser);
 global.CountDown-= 1;
 alarm[0]=60;

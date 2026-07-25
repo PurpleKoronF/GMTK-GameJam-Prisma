@@ -13,8 +13,8 @@
   "name":"Obj_ButtonPLay",
   "overriddenProperties":[],
   "parent":{
-    "name":"Oggetti",
-    "path":"folders/Oggetti.yy",
+    "name":"Button",
+    "path":"folders/Oggetti/Button.yy",
   },
   "parentObjectId":null,
   "persistent":false,

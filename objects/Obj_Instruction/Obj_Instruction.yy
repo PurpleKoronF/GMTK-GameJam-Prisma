@@ -13,8 +13,8 @@
   "name":"Obj_Instruction",
   "overriddenProperties":[],
   "parent":{
-    "name":"Oggetti",
-    "path":"folders/Oggetti.yy",
+    "name":"Ui_And_Sprt_Holder",
+    "path":"folders/Oggetti/Ui_And_Sprt_Holder.yy",
   },
   "parentObjectId":null,
   "persistent":false,

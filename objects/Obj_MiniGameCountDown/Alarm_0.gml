@@ -1,4 +1,4 @@
 if(CountDown==0)
-game_end();
+global.strikes=4;
 CountDown=CountDown-1;
 alarm[0]=60;
