@@ -31,7 +31,7 @@
   "physicsShapePoints":[],
   "physicsStartAwake":true,
   "properties":[
-    {"$GMObjectProperty":"v2","%Name":"ButtonText","filters":[],"listItems":[],"multiselect":false,"name":"ButtonText","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"Return to Menu","varType":2,},
+    {"$GMObjectProperty":"v2","%Name":"ButtonText","filters":[],"listItems":[],"multiselect":false,"name":"ButtonText","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"Menu","varType":2,},
   ],
   "resourceType":"GMObject",
   "resourceVersion":"2.0",

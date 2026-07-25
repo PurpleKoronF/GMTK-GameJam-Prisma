@@ -1,5 +1,6 @@
 y = ystart + 4;
 alarm[0]=10;
+audio_play_sound(SheepSound,1,false);
 if(global.SheepOrder=6)
 global.SheepOrder=7;
 else{

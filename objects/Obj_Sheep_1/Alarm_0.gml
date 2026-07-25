@@ -1,4 +1,5 @@
 y=ystart
+audio_play_sound(SheepSound,1,false);
 if(global.SheepOrder=9)
 global.SheepOrder=10;
 else{

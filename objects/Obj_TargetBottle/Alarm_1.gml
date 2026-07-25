@@ -1,5 +1,8 @@
 InvisibleCountDown=InvisibleCountDown+1;
-
+if(InvisibleCountDown<=3)
+audio_play_sound(sound_best_snare,100,false)
+if(InvisibleCountDown=4)
+audio_play_sound(GunShotSound,100,false)
 if(global.Pace=0)
 alarm[1]=30;
 if(global.Pace=1)

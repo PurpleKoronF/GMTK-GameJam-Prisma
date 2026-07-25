@@ -1,1 +1,1 @@
-room_goto(RM_Main2);
+room_goto(RM_Lore);
